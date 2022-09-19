@@ -18,6 +18,7 @@ const Main = () => (
       <div className="main-body-cards">
         {/* <MainCards></MainCards> */}
         <CategoriesCards></CategoriesCards>
+        {/* <item></item> */}
       </div>
     </div>
     <BotaoVoltar />

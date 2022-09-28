@@ -8,12 +8,6 @@
 Projeto da [Trybe](https://www.betrybe.com/) - Bloco 9 - Aplicação que simula um carrinho de compras com HTML, CSS e JavaScript.
 
 ## 💻 Projeto
-
-<details>
-  <summary><strong>🏆 Meu desempenho</strong></summary><br />
-
-  <img src="project-infos/requisitos-do-shopping-cart.png"/>
-</details>
   
 <details>
   <summary><strong>🖼️ Gif do projeto</strong></summary><br />

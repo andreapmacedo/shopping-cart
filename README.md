@@ -1,11 +1,10 @@
 # Português 🇧🇷🇵🇹
 
-<details>
   <summary>
     Saiba mais
   </summary>
   
-  # TrybeWarts
+  # Shopping Cart
 Projeto da [Trybe](https://www.betrybe.com/) - Bloco 9 - Aplicação que simula um carrinho de compras com HTML, CSS e JavaScript.
 
 ## 💻 Projeto
